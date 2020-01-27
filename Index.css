@@ -1,0 +1,29 @@
+body{
+    background-color: cornflowerblue;
+}
+
+nav {
+    color: cornsilk;
+}
+
+.buttons {
+    float: right;
+}
+
+.Signup{
+    border:2px solid black;
+    margin: 50px auto;
+    padding: 20px 20px 20px 40px;
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    
+}
+
+.logos{
+    float: center;
+}
+
+#Username {
+    float: center;
+}
